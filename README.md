@@ -1,3 +1,3 @@
-# Social-Aap
+# Social-App
 
 Created Using MERN Stack 
